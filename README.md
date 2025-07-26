@@ -34,18 +34,18 @@ Follow these simple steps to explore the dashboard on your local machine:
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/YourUsername/Credit_Card_Financial_Dashboard.git](https://github.com/YourUsername/Credit_Card_Financial_Dashboard.git)
+    git clone [[https://github.com/YourUsername/Credit-Card-Financial-Dashboard.git](https://github.com/GauravMishra9211/Credit-Card-Financial-Dashboard)]
     ```
     Navigate into the cloned directory:
     ```bash
-    cd Credit_Card_Financial_Dashboard
+    cd Credit-Card-Financial-Dashboard
     ```
 
 2.  **Install Power BI Desktop:**
     If you don't have it already, download and install Power BI Desktop from the [official Microsoft website](https://powerbi.microsoft.com/desktop/). It's free!
 
 3.  **Open the Dashboard:**
-    Locate the `Credit_Card_Financial_Dashboard.pbix` file within the cloned repository and open it with Power BI Desktop.
+    Locate the `Credit-Card-Financial-Dashboard.pbix` file within the cloned repository and open it with Power BI Desktop.
 
 4.  **Explore & Interact!**
     Dive into the various dashboard pages. Use the slicers, filters, and interactive charts to drill down into the data and uncover valuable insights. Feel free to modify, extend, or improve upon the existing reports.
